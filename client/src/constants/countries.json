@@ -1,0 +1,14 @@
+{
+  "USA": {
+    "name": "United States of America",
+    "twoLetter": "US"
+  },
+  "GBR": {
+    "name": "United Kingdom",
+    "twoLetter": "GB"
+  },
+  "ISR": {
+    "name": "Israel",
+    "twoLetter": "IL"
+  }
+}
